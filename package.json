@@ -1,0 +1,12 @@
+{
+  "name": "bst_with_dot_output",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Steven G. Harms <sgharms@stevengharms.com> (https://stevengharms.com/)",
+  "license": "MIT"
+}
