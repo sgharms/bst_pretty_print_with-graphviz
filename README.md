@@ -1,5 +1,7 @@
 # Demonstrate a Binary Search Tree Graphically
 
+![Graph to demonstrate node deletion](./sample.png)
+
 ## Motivation
 
 When trying to test whether you've managed to figure out an algorithm's
